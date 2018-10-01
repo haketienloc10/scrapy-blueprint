@@ -1,0 +1,10 @@
+apispec==0.39.0
+Flask==1.0.2
+flask-apispec==0.7.0
+Flask-Cors==3.0.6
+marshmallow==2.15.4
+pylint==2.1.1
+flask_pymongo==2.1.0
+crochet==1.9.0
+scrapy==1.5.1
+requests==2.19.1
